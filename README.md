@@ -23,7 +23,7 @@
 1. Retirar pancake en un plato con espatula
 1. Repetir desde paso 16 al 20 hasta que no quede mas mezcla del pancake
 
-
+<br>
 
 ## Integrantes
 
